@@ -10,7 +10,7 @@ class TestTaskManager(unittest.TestCase):
 
     def test_add_task(self):
         self.manager.add_task("Study Python")
-        self.assertEqual(len(self.manager.view_tasks()), 5)
+        self.assertEqual(len(self.manager.view_tasks()), 1)
 
     def test_complete_task(self):
         self.manager.add_task("Study DSA")
