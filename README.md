@@ -84,6 +84,7 @@ Demonstration: TeamCity automatically builds the project after a GitHub push.
 We are demonstrating today.
 
 We are demonstrating today.
+We are
 We are demonstrating today 28th.
 
 
