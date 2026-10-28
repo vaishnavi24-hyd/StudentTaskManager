@@ -81,4 +81,6 @@ python -m unittest -v
 This project demonstrates automated testing, version control integration, build status reporting, and test artifact publishing using a local TeamCity CI environment.It is very useful to understand about the tool teamcity.
 
 Demonstration: TeamCity automatically builds the project after a GitHub push.
+We are demonstrating today.
+
 
